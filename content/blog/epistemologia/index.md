@@ -1,4 +1,14 @@
-# Los sesgos en la IA como una oportunidad para la epistemología
+---
+title: Los sesgos en la IA como una oportunidad para la epistemología
+summary: Los sesgos algorítmicos constituyen ventanas únicas hacia la comprensión de la naturaleza misma del conocimiento humano y sus limitaciones epistémicas
+date: 2025-08-10
+authors:
+  - admin
+tags:
+  - epistemología
+  - conocimiento
+  - filosofía de la tecnología
+---
 
 ## 1. Introducción: Redefiniendo el problema de los sesgos algorítmicos
 
